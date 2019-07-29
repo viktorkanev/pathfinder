@@ -1,0 +1,17 @@
+C:\Users\vikto\Desktop\pathfinder\pathfinder\pathfinder\obj\Debug\pathfinder.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Desktop\pathfinder\pathfinder\pathfinder\bin\Debug\pathfinder.exe
+C:\Users\vikto\Desktop\pathfinder\pathfinder\pathfinder\bin\Debug\pathfinder.pdb
+C:\Users\vikto\Desktop\pathfinder\pathfinder\pathfinder\obj\Debug\pathfinder.exe
+C:\Users\vikto\Desktop\pathfinder\pathfinder\pathfinder\obj\Debug\pathfinder.pdb
+C:\Users\vikto\Desktop\pathfinder\pathfinder\pathfinder\obj\Debug\pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\vikto\Desktop\dev\pathfinder\pathfinder\pathfinder\bin\Debug\pathfinder.exe
+C:\Users\vikto\Desktop\dev\pathfinder\pathfinder\pathfinder\bin\Debug\pathfinder.pdb
+C:\Users\vikto\Desktop\dev\pathfinder\pathfinder\pathfinder\obj\Debug\pathfinder.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Desktop\dev\pathfinder\pathfinder\pathfinder\obj\Debug\pathfinder.exe
+C:\Users\vikto\Desktop\dev\pathfinder\pathfinder\pathfinder\obj\Debug\pathfinder.pdb
+C:\Users\vikto\Desktop\pathfinder_last_source+exe\pathfinder\pathfinder\bin\Debug\pathfinder.exe
+C:\Users\vikto\Desktop\pathfinder_last_source+exe\pathfinder\pathfinder\bin\Debug\pathfinder.pdb
+C:\Users\vikto\Desktop\pathfinder_last_source+exe\pathfinder\pathfinder\obj\Debug\pathfinder.csprojResolveAssemblyReference.cache
+C:\Users\vikto\Desktop\pathfinder_last_source+exe\pathfinder\pathfinder\obj\Debug\pathfinder.csproj.CoreCompileInputs.cache
+C:\Users\vikto\Desktop\pathfinder_last_source+exe\pathfinder\pathfinder\obj\Debug\pathfinder.exe
+C:\Users\vikto\Desktop\pathfinder_last_source+exe\pathfinder\pathfinder\obj\Debug\pathfinder.pdb
